@@ -7,3 +7,6 @@ flagged/
 *.mkv
 gradio_cached_examples/
 .Rproj.user
+.Rhistory
+.RData
+.Ruserdata
