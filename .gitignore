@@ -6,3 +6,4 @@ flagged/
 *.mp4
 *.mkv
 gradio_cached_examples/
+.Rproj.user
