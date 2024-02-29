@@ -1,5 +1,6 @@
 flagged/
 *.pt
+*.onnx
 *.png
 *.jpg
 *.mp4
